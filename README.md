@@ -29,4 +29,19 @@ Business Analysis of a fictitious company Adventure Works bike manufacturer and 
 
 ## **Screenshots of Power BI Adventure Works Final Report :-**
 
-![alt text](https://github.com/[11KrishnaKumar]/[Power-BI-Adventure-works-Dashboard]/blob/[Data Model]/Relational Data Model.PNG?raw=true)
+***Relational Model***
+![Relational Model](https://github.com/11KrishnaKumar/Power-BI-Adventure-works-Dashboard/blob/main/Data%20Model/Relational%20Data%20Model.PNG)
+
+***Dashboard Screenshots***
+
+1.***Executive Summary***
+![Executive Summary](https://github.com/11KrishnaKumar/Power-BI-Adventure-works-Dashboard/blob/main/Dashboard/Executive%20Summary.PNG)
+
+2.***Customer Distribution map***
+![Customer Distribution map](https://github.com/11KrishnaKumar/Power-BI-Adventure-works-Dashboard/blob/main/Dashboard/Customer%20Distribution%20map.PNG)
+
+3.***Product Details***
+![Product Details](https://github.com/11KrishnaKumar/Power-BI-Adventure-works-Dashboard/blob/main/Dashboard/Product%20Details.PNG)
+
+4.***Customer Details***
+![Customer Details](https://github.com/11KrishnaKumar/Power-BI-Adventure-works-Dashboard/blob/main/Dashboard/Customer%20Details.PNG)
